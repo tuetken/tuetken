@@ -1,7 +1,7 @@
 # Hi, I’m Tyler 👋
 
 I’m a recent **Software Engineering** graduate who enjoys building things and figuring out how they actually work under the hood.  
-Most of my time is spent working on full-stack JavaScript projects, learning by building, breaking things, and improving them as I go.
+Most of my time is spent working on full-stack JavaScript projects, learning by building, breaking things, and improving them.
 
 ---
 
