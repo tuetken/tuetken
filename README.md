@@ -28,8 +28,8 @@ Most of my time is spent working on full-stack JavaScript projects, learning by 
 - **Gaming:** Mostly FPS, but I'm trying to expand
 - **Anime:** 1. Bleach 2. Deathnote 3. Tokyo Ghoul
 - **Working Out:** Running/Lifting
-- **Cafes:** I really enjoy dressing up and going to work from there
-- **Bouldering** (Although I've only been a few times)
+- **Cafes:** I really enjoy dressing up and working from there
+- **Bouldering:** Only been a few times, but super fun
 
 ---
 
