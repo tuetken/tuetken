@@ -1,43 +1,113 @@
-# Hi, I’m Tyler 👋
+<div align="center">
 
-I’m a recent **Software Engineering** graduate who enjoys building things and figuring out how they actually work under the hood.  
-Most of my time is spent working on full-stack JavaScript projects, learning by building, breaking things, and improving them.
+# Tyler Tuetken
 
----
+Software Engineer | Full-Stack JavaScript Developer  
 
-## 🚧 What I’m Currently Working On
-- **Job Application Tracker**  
-  A full-stack web app that helps users organize and track job applications. This has been my main “learn by doing” project, covering everything from UI decisions to API design and deployment.
+Building projects to understand systems from the UI all the way down to the infrastructure.
 
-- **Personal Portfolio Website**  
-  A React-based site where I showcase selected projects and keep my work presentable and easy to explore.
+[Portfolio](https://personalportfolio-five-phi.vercel.app/) • [Email](mailto:t.tuetken@outlook.com) • Discord: gunsoil
+
+</div>
 
 ---
 
-## 🧰 Tools I Use
-- JavaScript, React, Node.js, Express 
-- HTML, CSS, Tailwind  
-- MongoDB  
-- Git & GitHub  
-- Docker  
-- Vercel & Render  
+## About Me
+
+I'm a recent **Software Engineering graduate** focused on building practical applications and learning how systems behave in real environments.
+
+Most of my experience comes from **project-driven learning** — designing features, debugging failures, and improving architecture as projects grow.
+
+Lately I've been particularly interested in:
+
+- backend architecture
+- API design
+- developer tooling
+- cloud deployment workflows
 
 ---
 
-## 🧗 Some Of My Hobbies
-- **Gaming:** Mostly FPS, but I'm trying to expand
-- **Anime:** 1. Bleach 2. Deathnote 3. Tokyo Ghoul
-- **Working Out:** Running/Lifting
-- **Cafes:** I really enjoy dressing up and working from there
-- **Bouldering:** Only been a few times, but super fun
+## Current Projects
+
+### Job Application Tracker
+Full-stack application for organizing and tracking job applications.
+
+Features include:
+
+• Application tracking dashboard  
+• Status filtering and organization  
+• Backend API with persistent storage  
+• Deployment across modern cloud platforms  
+
+This project serves as my **primary full-stack learning environment**.
 
 ---
 
-## 📫 Reach Me
-- **Discord:** gunsoil
-- **Portfolio:** https://personalportfolio-five-phi.vercel.app/
-- **Email:** t.tuetken@outlook.com
+### Personal Portfolio Website
+
+A React-based portfolio used to showcase projects and experiment with UI design.
+
+The goal is to keep my work **accessible, organized, and easy to explore**.
 
 ---
 
-Thanks for stopping by — feel free to check out my projects :)
+## Tech Stack
+
+**Languages**
+
+JavaScript  
+
+**Frontend**
+
+React  
+HTML  
+CSS  
+Tailwind  
+
+**Backend**
+
+Node.js  
+Express  
+
+**Database**
+
+MongoDB  
+
+**Tools**
+
+Git  
+Docker  
+
+**Deployment**
+
+Vercel  
+Render  
+
+---
+
+## Outside of Programming
+
+Some things I enjoy outside of coding:
+
+• Working out (running + lifting)  
+• Gaming — mostly FPS  
+• Anime — Bleach, Death Note, Tokyo Ghoul  
+• Working from cafés  
+• Bouldering when I get the chance  
+
+---
+
+## Connect
+
+Portfolio  
+https://personalportfolio-five-phi.vercel.app/
+
+Email  
+t.tuetken@outlook.com
+
+Discord  
+gunsoil
+
+---
+
+Thanks for visiting my GitHub.
