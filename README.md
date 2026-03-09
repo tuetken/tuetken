@@ -4,9 +4,7 @@
 
 Software Engineer | Full-Stack JavaScript Developer  
 
-Building projects to understand systems from the UI all the way down to the infrastructure.
-
-[Portfolio](https://personalportfolio-five-phi.vercel.app/) • [Email](mailto:t.tuetken@outlook.com) • Discord: gunsoil
+[Portfolio](https://personalportfolio-five-phi.vercel.app/) • [Email](mailto:t.tuetken@outlook.com) • [LinkedIn](https://linkedin.com/in/tyler-tuetken)
 
 </div>
 
@@ -20,94 +18,44 @@ Most of my experience comes from **project-driven learning** — designing featu
 
 Lately I've been particularly interested in:
 
-- backend architecture
-- API design
-- developer tooling
 - cloud deployment workflows
+- backend architecture
+- developer tooling
+- API design
 
 ---
 
 ## Current Projects
 
+### TraceDeck
+
+TraceDeck is an API observability platform designed to help developers monitor and analyze real request traffic.
+
+The system collects request metadata through lightweight middleware, processes it through an asynchronous ingestion pipeline, and stores it for analysis and visualization.
+
+TraceDeck is currently under active development.
+
+---
+
 ### Job Application Tracker
+
 Full-stack application for organizing and tracking job applications.
-
-Features include:
-
-• Application tracking dashboard  
-• Status filtering and organization  
-• Backend API with persistent storage  
-• Deployment across modern cloud platforms  
 
 This project serves as my **primary full-stack learning environment**.
 
 ---
 
-### Personal Portfolio Website
-
-A React-based portfolio used to showcase projects and experiment with UI design.
-
-The goal is to keep my work **accessible, organized, and easy to explore**.
-
----
-
 ## Tech Stack
 
-**Languages**
-
-JavaScript  
-
-**Frontend**
-
-React  
-HTML  
-CSS  
-Tailwind  
-
-**Backend**
-
-Node.js  
-Express  
-
-**Database**
-
-MongoDB  
-
-**Tools**
-
-Git  
-Docker  
-
-**Deployment**
-
-Vercel  
-Render  
-
----
-
-## Outside of Programming
-
-Some things I enjoy outside of coding:
-
-• Working out (running + lifting)  
-• Gaming — mostly FPS  
-• Anime — Bleach, Death Note, Tokyo Ghoul  
-• Working from cafés  
-• Bouldering when I get the chance  
-
----
-
-## Connect
-
-Portfolio  
-https://personalportfolio-five-phi.vercel.app/
-
-Email  
-t.tuetken@outlook.com
-
-Discord  
-gunsoil
-
----
-
-Thanks for visiting my GitHub.
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
+![Tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-black?style=for-the-badge)
